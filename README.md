@@ -44,3 +44,4 @@
 - [Shadow Raven](https://github.com/valzzu/meshtastic-pcbs/tree/main/Shadow%20Raven)
 - [BabelFox](https://github.com/fire219/babelfox)
 - [RAK_killer_v2](https://github.com/Uroboros67/rak_killer)
+- [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow)
