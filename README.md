@@ -46,3 +46,4 @@
 - [RAK_killer_v2](https://github.com/Uroboros67/rak_killer)
 - [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow)
 - [Ikoka Stick](https://github.com/ndoo/ikoka-stick-meshtastic-device)
+- [MeshWalkie](https://hackaday.io/project/202551-meshwalkie)
