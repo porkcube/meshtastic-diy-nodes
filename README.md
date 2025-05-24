@@ -28,7 +28,7 @@
 - [Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess)
 - [Meshstick](https://github.com/markbirss/MESHSTICK)
 - [Meshtoad v1.2](https://oshwlab.com/mtnmesh/meshtoad-v1-2)
-- [MikroToad](https://oshwlab.com/nomdetom/meshtoad-v1-2_copy)
+- [Meshtoad v1.3.1](https://oshwlab.com/nomdetom/meshtoad-v1-2_copy)
 - [mrekin/vaRDas's](https://github.com/mrekin/MeshtasticCustomBoards/)
     - [ct62_tiny](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ct62_tiny)
     - [e80_promicro](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro)
