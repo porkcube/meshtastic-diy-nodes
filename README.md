@@ -48,3 +48,8 @@
 - [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow)
 - [Ikoka Stick](https://github.com/ndoo/ikoka-stick-meshtastic-device)
 - [MeshWalkie](https://hackaday.io/project/202551-meshwalkie)
+- [Luckfox Ultra Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/Luckfox%20Ultra%20Hat)
+- [NebraHat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NebraHat)
+- [NewtPi](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NewtPi)
+- [PowerPi Mesh Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/PowerPi%20Mesh%20Hat/V0.9)
+- [XiaoSerial](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries)
