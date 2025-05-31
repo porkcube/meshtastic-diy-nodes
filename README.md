@@ -53,3 +53,4 @@
 - [NewtPi](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NewtPi)
 - [PowerPi Mesh Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/PowerPi%20Mesh%20Hat/V0.9)
 - [XiaoSerial](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries)
+- [Meshtastic Compatible Node](https://www.pcbway.com/project/shareproject/Meshtastic_Compatible_Node_433afb1c.html)
