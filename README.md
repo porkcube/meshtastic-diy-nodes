@@ -39,6 +39,7 @@
         - [v2](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/fulltec/v2)
     - [ra62_c3_smini](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ra62_c3_smini)
 - [MeshAdv](https://github.com/chrismyers2000/MeshAdv-Pi-Hat)
+- [MeshAdv Mini](https://github.com/chrismyers2000/MeshAdv-Mini)
 - [CheapMesh](https://github.com/joyel24/CheapMesh)
 - [WashTastic](https://github.com/valzzu/meshtastic-pcbs/tree/main/WashTastic)
 - [Flushable](https://github.com/valzzu/meshtastic-pcbs/tree/main/Flushable)
