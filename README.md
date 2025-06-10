@@ -7,6 +7,7 @@
     - [v1](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V1.0)
     - [v1.2 LDO](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V1.2%20LDO)
     - [v2](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.0)
+    - [v2.1](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.1)
 - [fakeTec](https://github.com/gargomoma/fakeTec_pcb)
     - [v1](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v1_2024-04-15.zip)
     - [v2](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v2_2024-06-06.zip)
