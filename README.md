@@ -58,3 +58,4 @@
 - [Meshtastic Compatible Node](https://www.pcbway.com/project/shareproject/Meshtastic_Compatible_Node_433afb1c.html)
 - [Econotastic](https://sites.google.com/view/econotastic/home)
 - [Ikoka Handheld](https://github.com/ndoo/ikoka-handheld-meshtastic-device)
+- [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node)
