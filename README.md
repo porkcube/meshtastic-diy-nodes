@@ -59,3 +59,4 @@
 - [Econotastic](https://sites.google.com/view/econotastic/home)
 - [Ikoka Handheld](https://github.com/ndoo/ikoka-handheld-meshtastic-device)
 - [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node)
+- [FakeDeck XL](https://makerworld.com/en/models/1356393-meshtastic-fakedeck-xl-rugged-case-for-faketec)
