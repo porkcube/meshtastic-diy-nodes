@@ -60,3 +60,4 @@
 - [Ikoka Handheld](https://github.com/ndoo/ikoka-handheld-meshtastic-device)
 - [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node)
 - [FakeDeck XL](https://makerworld.com/en/models/1356393-meshtastic-fakedeck-xl-rugged-case-for-faketec)
+- [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1)
