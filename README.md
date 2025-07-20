@@ -7,7 +7,9 @@
 | [Sidekick v1.2 LDO](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V1.2%20LDO) | nRF52840 | 🚫 |
 | [Sidekick v2](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.0) | nRF52840 | 🚫 |
 | [Sidekick v2.1](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.1) | nRF52840 | 🚫 |
+| [Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) | Linux SBC (Raspi HAT) | ✅ |
 | [HT-CT62 USB](https://github.com/NomDeTom/HT-CT62_USB) | ESP32C3 (HT-CT62) | 🚫 |
+| [Meshtoad v1.3.1](https://oshwlab.com/nomdetom/meshtoad-v1-2_copy) | USB to SPI  | ✅ |
 | | [ndoo's Ikoka devices](https://github.com/ndoo/) | |
 | [Ikoka Nano v3](https://github.com/ndoo/ikoka-nano-meshtastic-device) | nRF52840 | ✅ |
 | [Ikoka Stick](https://github.com/ndoo/ikoka-stick-meshtastic-device) | nRF52840 | ✅ |
@@ -28,10 +30,10 @@
 | [Femtofox Smol](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20SE-RA-WIO%20Alpha%201.0) | Linux SBC (Luckfox Pico Mini) | ✅ |
 | [Femtofox Pro US Store](https://opensourcecountry.etsy.com/) | Linux SBC (Luckfox Pico Mini) | ✅ |
 | [Femtofox Pro EU Store](https://nomdetom.etsy.com/) | Linux SBC (Luckfox Pico Mini) | ✅ |
-| [Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) | Linux SBC (Raspi HAT) | ✅ |
+| | [mark birss's designs](https://github.com/markbirss/) | |
 | [Meshstick](https://github.com/markbirss/MESHSTICK) | USB to SPI | 🚫 |
-| [Meshtoad v1.2](https://oshwlab.com/mtnmesh/meshtoad-v1-2) | USB to SPI | ✅ |
-| [Meshtoad v1.3.1](https://oshwlab.com/nomdetom/meshtoad-v1-2_copy) | USB to SPI  | ✅ |
+| [LoRa Starter Edition Hat](https://github.com/markbirss/lora-starter-edition-sx1262-i2c) | Linux SBC (Raspi HAT) | 🚫 |
+| [LoRa Waveshare Raspi to Pi Pico HAT Adaptor](https://github.com/markbirss/lora-ws-raspberry-pi-pico-to-rpi-adapter) | RP2040 (Raspi HAT) | 🚫 |
 | | [mrekin/vaRDas's boards](https://github.com/mrekin/MeshtasticCustomBoards/) |
 | [ct62_tiny](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ct62_tiny) | ESP32C3 (HT-CT62) | 🚫 |
 | [e80_promicro v1.1](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.1) | nRF52840 | 🚫 |
@@ -53,6 +55,7 @@
 | [Spearmintastic](https://github.com/fire219/spearmintastic) | nRF52840 | 🚫 |
 | [BabelFox](https://github.com/fire219/babelfox) | Linux SBC (Luckfox Lyra) | ✅ |
 | | [wehooper4's designs](https://github.com/wehooper4/Meshtastic-Hardware) |
+| [Meshtoad v1.2](https://oshwlab.com/mtnmesh/meshtoad-v1-2) | USB to SPI | ✅ |
 | [Luckfox Ultra Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/Luckfox%20Ultra%20Hat) | Linux SBC (Luckfox Lyra/Pico Ultra) | ✅ |
 | [NebraHat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NebraHat) | Linux SBC (Raspi HAT) | ✅ |
 | [NewtPi](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NewtPi) | Linux SBC (Raspi HAT)| ✅ |
