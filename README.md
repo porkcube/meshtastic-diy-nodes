@@ -1,63 +1,75 @@
 ## an awesome list of [Meshtastic](https://meshtastic.org) DIY nodes
 
-- [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb)
-- [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb)
-- [Ikoka Nano v3](https://github.com/ndoo/ikoka-nano-meshtastic-device)
-- [Sidekick](https://github.com/NomDeTom/NiceRa/)
-    - [v1](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V1.0)
-    - [v1.2 LDO](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V1.2%20LDO)
-    - [v2](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.0)
-    - [v2.1](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.1)
-- [fakeTec](https://github.com/gargomoma/fakeTec_pcb)
-    - [v1](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v1_2024-04-15.zip)
-    - [v2](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v2_2024-06-06.zip)
-    - [v3 (11-27-2024)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v3_2024-11-27.zip)
-    - [v3 (12-17-2024)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v3_2024-12-17.zip)
-    - [v4 (lupusworax)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/lupusworax_fakeTec_pcb_v4_GERBER.zip)
-    - [v5 (Shimon Horanek)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/ShimonHoranek_fakeTecv5_gerber_files.zip)
-    - [faketec-co2](https://github.com/paulwalko/faketec-co2)
-    - [Faketec Plus CN3791 LiPo Solar Charger](https://oshwlab.com/skvery/faketec-plus-cn3791-lipo-solar-charger)
-- [pro-meshro](https://github.com/hawkeyes0v0/pro-meshro/)
-- [Spearmintastic](https://github.com/fire219/spearmintastic)
-- [DonkTastic](https://github.com/jycannel/DonkTastic_pcb)
-- [Femtofox](https://github.com/femtofox/Femtofox_Community_Hardware)
-    - [Community Edition](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20CE%20Alpha%201.1)
-    - [Smol](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20SE-RA-WIO%20Alpha%201.0)
-    - **Pro**
-        - [US](https://opensourcecountry.etsy.com/)
-        - [EU](https://nomdetom.etsy.com/)
-- [Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess)
-- [Meshstick](https://github.com/markbirss/MESHSTICK)
-- [Meshtoad v1.2](https://oshwlab.com/mtnmesh/meshtoad-v1-2)
-- [Meshtoad v1.3.1](https://oshwlab.com/nomdetom/meshtoad-v1-2_copy)
-- [mrekin/vaRDas's](https://github.com/mrekin/MeshtasticCustomBoards/)
-    - [ct62_tiny](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ct62_tiny)
-    - [e80_promicro](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro)
-        - [v1.1](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.1)
-        - [v1.2](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.2)
-    - [fulltec](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/fulltec/)
-        - [v1](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/fulltec/v1)
-        - [v2](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/fulltec/v2)
-    - [ra62_c3_smini](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ra62_c3_smini)
-- [MeshAdv](https://github.com/chrismyers2000/MeshAdv-Pi-Hat)
-- [MeshAdv Mini](https://github.com/chrismyers2000/MeshAdv-Mini)
-- [CheapMesh](https://github.com/joyel24/CheapMesh)
-- [WashTastic](https://github.com/valzzu/meshtastic-pcbs/tree/main/WashTastic)
-- [Flushable](https://github.com/valzzu/meshtastic-pcbs/tree/main/Flushable)
-- [Shadow Raven](https://github.com/valzzu/meshtastic-pcbs/tree/main/Shadow%20Raven)
-- [BabelFox](https://github.com/fire219/babelfox)
-- [RAK_killer_v2](https://github.com/Uroboros67/rak_killer)
-- [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow)
-- [Ikoka Stick](https://github.com/ndoo/ikoka-stick-meshtastic-device)
-- [MeshWalkie](https://hackaday.io/project/202551-meshwalkie)
-- [Luckfox Ultra Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/Luckfox%20Ultra%20Hat)
-- [NebraHat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NebraHat)
-- [NewtPi](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NewtPi)
-- [PowerPi Mesh Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/PowerPi%20Mesh%20Hat/V0.9)
-- [XiaoSerial](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries)
-- [Meshtastic Compatible Node](https://www.pcbway.com/project/shareproject/Meshtastic_Compatible_Node_433afb1c.html)
-- [Econotastic](https://sites.google.com/view/econotastic/home)
-- [Ikoka Handheld](https://github.com/ndoo/ikoka-handheld-meshtastic-device)
-- [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node)
-- [FakeDeck XL](https://makerworld.com/en/models/1356393-meshtastic-fakedeck-xl-rugged-case-for-faketec)
-- [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1)
+| Name | MCU | 1W+ |
+|------|-----|----|
+| | [NomDeTom's designs](https://github.com/NomDeTom/NiceRa) | |
+| [Sidekick v1](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V1.0) | nRF52840 | 🚫 |
+| [Sidekick v1.2 LDO](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V1.2%20LDO) | nRF52840 | 🚫 |
+| [Sidekick v2](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.0) | nRF52840 | 🚫 |
+| [Sidekick v2.1](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.1) | nRF52840 | 🚫 |
+| [HT-CT62 USB](https://github.com/NomDeTom/HT-CT62_USB) | ESP32C3 (HT-CT62) | 🚫 |
+| | [ndoo's Ikoka devices](https://github.com/ndoo/) | |
+| [Ikoka Nano v3](https://github.com/ndoo/ikoka-nano-meshtastic-device) | nRF52840 | ✅ |
+| [Ikoka Stick](https://github.com/ndoo/ikoka-stick-meshtastic-device) | nRF52840 | ✅ |
+| [Ikoka Handheld](https://github.com/ndoo/ikoka-handheld-meshtastic-device) | nRF52840 | ✅ |
+| | [fakeTec series](https://github.com/gargomoma/fakeTec_pcb) |
+| [fakeTec v1](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v1_2024-04-15.zip) | nRF52840 | 🚫 |
+| [fakeTec v2](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v2_2024-06-06.zip) | nRF52840 | 🚫 |
+| [fakeTec v3 (11-27-2024)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v3_2024-11-27.zip) | nRF52840 | 🚫 |
+| [fakeTec v3 (12-17-2024)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v3_2024-12-17.zip) | nRF52840 | 🚫 |
+| [fakeTec v4 (lupusworax)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/lupusworax_fakeTec_pcb_v4_GERBER.zip) | nRF52840 | 🚫 |
+| [fakeTec v5 (Shimon Horanek)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/ShimonHoranek_fakeTecv5_gerber_files.zip) | nRF52840 | 🚫 |
+| [faketec-co2](https://github.com/paulwalko/faketec-co2) | nRF52840 | 🚫 |
+| [Faketec Plus CN3791 LiPo Solar Charger](https://oshwlab.com/skvery/faketec-plus-cn3791-lipo-solar-charger) | nRF52840 | 🚫 |
+| [fakeTec v6 (Shimon Hornaek)](https://github.com/gargomoma/fakeTec_pcb/issues/26) | nRF52840 | 🚫 |
+| [pro-meshro](https://github.com/hawkeyes0v0/pro-meshro/) | nRF52840 | 🚫 |
+| | [Femtofox Series](https://github.com/femtofox/Femtofox_Community_Hardware) |
+| [Femtofox Community Edition](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20CE%20Alpha%201.1) | Linux SBC (Luckfox Pico Mini) | ✅ |
+| [Femtofox Smol](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20SE-RA-WIO%20Alpha%201.0) | Linux SBC (Luckfox Pico Mini) | ✅ |
+| [Femtofox Pro US Store](https://opensourcecountry.etsy.com/) | Linux SBC (Luckfox Pico Mini) | ✅ |
+| [Femtofox Pro EU Store](https://nomdetom.etsy.com/) | Linux SBC (Luckfox Pico Mini) | ✅ |
+| [Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) | Linux SBC (Raspi HAT) | ✅ |
+| [Meshstick](https://github.com/markbirss/MESHSTICK) | USB to SPI | 🚫 |
+| [Meshtoad v1.2](https://oshwlab.com/mtnmesh/meshtoad-v1-2) | USB to SPI | ✅ |
+| [Meshtoad v1.3.1](https://oshwlab.com/nomdetom/meshtoad-v1-2_copy) | USB to SPI  | ✅ |
+| | [mrekin/vaRDas's boards](https://github.com/mrekin/MeshtasticCustomBoards/) |
+| [ct62_tiny](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ct62_tiny) | ESP32C3 (HT-CT62) | 🚫 |
+| [e80_promicro v1.1](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.1) | nRF52840 | 🚫 |
+| [e80_promicro v1.2](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.2) | nRF52840 | 🚫 |
+| [fulltec v1](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/fulltec/v1) | nRF52840 | 🚫 |
+| [fulltec v2](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/fulltec/v2) | nRF52840 | 🚫 |
+| [ra62_c3_smini](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ra62_c3_smini) | ESP32C3 | 🚫 |
+| | [Frequency Labs designs](https://github.com/chrismyers2000) | |
+| [MeshAdventurer](https://github.com/chrismyers2000/MeshAdventurer) | ESP32-WROOM-32D | ✅ |
+| [MeshAdv](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) | Linux SBC (Raspi HAT) | ✅ |
+| [MeshAdv Mini](https://github.com/chrismyers2000/MeshAdv-Mini) | Linux SBC (Raspi HAT) | 🚫 |
+| | [iris/valzzu's designs](https://github.com/valzzu/meshtastic-pcbs) |
+| [Mesh-Tab](https://github.com/valzzu/Mesh-Tab) | nRF52840 | 🚫 |
+| [WashTastic](https://github.com/valzzu/meshtastic-pcbs/tree/main/WashTastic) | nRF52840 | ✅ |
+| [Flushable](https://github.com/valzzu/meshtastic-pcbs/tree/main/Flushable) | nRF52840 | 🚫 |
+| [Shadow Raven](https://github.com/valzzu/meshtastic-pcbs/tree/main/Shadow%20Raven) | nRF52840 (nRFLR1110)| 🚫 |
+| [Nexio](https://github.com/valzzu/meshtastic-pcbs/tree/main/Nexio) | Linux SBC (Luckfox Lyra) | 🚫 | 
+| | [fire219's designs](https://github.com/fire219) | |
+| [Spearmintastic](https://github.com/fire219/spearmintastic) | nRF52840 | 🚫 |
+| [BabelFox](https://github.com/fire219/babelfox) | Linux SBC (Luckfox Lyra) | ✅ |
+| | [wehooper4's designs](https://github.com/wehooper4/Meshtastic-Hardware) |
+| [Luckfox Ultra Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/Luckfox%20Ultra%20Hat) | Linux SBC (Luckfox Lyra/Pico Ultra) | ✅ |
+| [NebraHat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NebraHat) | Linux SBC (Raspi HAT) | ✅ |
+| [NewtPi](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NewtPi) | Linux SBC (Raspi HAT)| ✅ |
+| [PowerPi Mesh Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/PowerPi%20Mesh%20Hat/V0.9) | Linux SBC (Raspi HAT) | ✅ |
+| [SolarXiaoBLE v0.8](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V0.8) | nRF52840 | ✅ |
+| [SolarXiao v0.9](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V0.9/SolarXaio) | nRF52840 | ✅ |
+| [XaioGator v0.9](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V0.9/XaioGator) | nRF52840 | ✅ |
+| [XaioGator+ v1.0](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V1.0/XiaoGator%2B) | nRF52840 | ✅ |
+| | **Misc Projects** | |
+| [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
+| [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
+| [DonkTastic](https://github.com/jycannel/DonkTastic_pcb) | nRF52840 | ✅ |
+| [CheapMesh](https://github.com/joyel24/CheapMesh) | ESP32C3 (HT-CT62) | 🚫 |
+| [RAK_killer v2](https://github.com/Uroboros67/rak_killer)| nRF52840 | 🚫 |
+| [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
+| [MeshWalkie](https://hackaday.io/project/202551-meshwalkie) | ESP32-S3-WROOM-1 | 🚫 |
+| [Meshtastic Compatible Node](https://www.pcbway.com/project/shareproject/Meshtastic_Compatible_Node_433afb1c.html) | nRF52840 | 🚫 |
+| [Econotastic](https://sites.google.com/view/econotastic/home) | RP2040 | 🚫 |
+| [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node) | nRF52840 | ✅ |
+| [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
