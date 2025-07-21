@@ -50,7 +50,7 @@
 | [WashTastic](https://github.com/valzzu/meshtastic-pcbs/tree/main/WashTastic) | nRF52840 | ✅ |
 | [Flushable](https://github.com/valzzu/meshtastic-pcbs/tree/main/Flushable) | nRF52840 | 🚫 |
 | [Shadow Raven](https://github.com/valzzu/meshtastic-pcbs/tree/main/Shadow%20Raven) | nRF52840 (nRFLR1110)| 🚫 |
-| [Nexio](https://github.com/valzzu/meshtastic-pcbs/tree/main/Nexio) | Linux SBC (Luckfox Lyra) | 🚫 | 
+| [Nexio](https://github.com/valzzu/meshtastic-pcbs/tree/main/Nexio) | Linux SBC (Luckfox Lyra) | 🚫 |
 | | [fire219's designs](https://github.com/fire219) | |
 | [Spearmintastic](https://github.com/fire219/spearmintastic) | nRF52840 | 🚫 |
 | [BabelFox](https://github.com/fire219/babelfox) | Linux SBC (Luckfox Lyra) | ✅ |
@@ -76,3 +76,4 @@
 | [Econotastic](https://sites.google.com/view/econotastic/home) | RP2040 | 🚫 |
 | [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node) | nRF52840 | ✅ |
 | [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
+| [Hammer-1W_LoRa-board](https://github.com/BrokenCircuitRanch/Hammer-1W_LORA-board) | ESP32-WROOM-32 | ✅ |
