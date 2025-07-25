@@ -72,7 +72,7 @@
 | [RAK_killer v2](https://github.com/Uroboros67/rak_killer)| nRF52840 | 🚫 |
 | [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
 | [MeshWalkie](https://hackaday.io/project/202551-meshwalkie) | ESP32-S3-WROOM-1 | 🚫 |
-| [Meshtastic Compatible Node](https://www.pcbway.com/project/shareproject/Meshtastic_Compatible_Node_433afb1c.html) | nRF52840 | 🚫 |
+| [MiranNode V1](https://www.pcbway.com/project/shareproject/Meshtastic_Compatible_Node_433afb1c.html) | nRF52840 | 🚫 |
 | [Econotastic](https://sites.google.com/view/econotastic/home) | RP2040 | 🚫 |
 | [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node) | nRF52840 | ✅ |
 | [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
