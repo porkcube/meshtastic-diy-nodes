@@ -14,6 +14,7 @@
 | [Ikoka Nano v3](https://github.com/ndoo/ikoka-nano-meshtastic-device) | nRF52840 | ✅ |
 | [Ikoka Stick](https://github.com/ndoo/ikoka-stick-meshtastic-device) | nRF52840 | ✅ |
 | [Ikoka Handheld](https://github.com/ndoo/ikoka-handheld-meshtastic-device) | nRF52840 | ✅ |
+| [Ikoka Pro](https://github.com/ndoo/ikoka-pro-meshtastic-device) | nRF52840 | ✅ |
 | | [fakeTec series](https://github.com/gargomoma/fakeTec_pcb) |
 | [fakeTec v1](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v1_2024-04-15.zip) | nRF52840 | 🚫 |
 | [fakeTec v2](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v2_2024-06-06.zip) | nRF52840 | 🚫 |
