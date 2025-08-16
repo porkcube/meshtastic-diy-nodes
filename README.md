@@ -47,7 +47,7 @@
 | [MeshAdv](https://github.com/chrismyers2000/MeshAdv-Pi-Hat) | Linux SBC (Raspi HAT) | ✅ |
 | [MeshAdv Mini](https://github.com/chrismyers2000/MeshAdv-Mini) | Linux SBC (Raspi HAT) | 🚫 |
 | | [iris/valzzu's designs](https://github.com/valzzu/meshtastic-pcbs) |
-| [Mesh-Tab](https://github.com/valzzu/Mesh-Tab) | nRF52840 | 🚫 |
+| [Mesh-Tab](https://github.com/valzzu/Mesh-Tab) | ESP32S3 | 🚫 |
 | [WashTastic](https://github.com/valzzu/meshtastic-pcbs/tree/main/WashTastic) | nRF52840 | ✅ |
 | [Flushable](https://github.com/valzzu/meshtastic-pcbs/tree/main/Flushable) | nRF52840 | 🚫 |
 | [Shadow Raven](https://github.com/valzzu/meshtastic-pcbs/tree/main/Shadow%20Raven) | nRF52840 (nRFLR1110)| 🚫 |
