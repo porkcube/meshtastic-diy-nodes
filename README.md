@@ -9,7 +9,8 @@
 | [Sidekick v2.1](https://github.com/NomDeTom/NiceRa/tree/main/Sidekick%20Breakout%20V2.1) | nRF52840 | 🚫 |
 | [Liberty_MeshMess](https://github.com/NomDeTom/Liberty_MeshMess) | Linux SBC (Raspi HAT) | ✅ |
 | [HT-CT62 USB](https://github.com/NomDeTom/HT-CT62_USB) | ESP32C3 (HT-CT62) | 🚫 |
-| [Meshtoad v1.3.1](https://oshwlab.com/nomdetom/meshtoad-v1-2_copy) | USB to SPI  | ✅ |
+| [Meshtoad v1.3.1](https://oshwlab.com/nomdetom/meshtoad-v1-2_copy) | USB to SPI | ✅ |
+| [Modular_MeshMess](https://github.com/NomDeTom/Modular_MeshMess) | (various) | ✅ |
 | | [ndoo's Ikoka devices](https://github.com/ndoo/) | |
 | [Ikoka Nano v3](https://github.com/ndoo/ikoka-nano-meshtastic-device) | nRF52840 | ✅ |
 | [Ikoka Stick](https://github.com/ndoo/ikoka-stick-meshtastic-device) | nRF52840 | ✅ |
