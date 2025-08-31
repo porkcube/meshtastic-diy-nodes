@@ -38,8 +38,8 @@
 | [LoRa Waveshare Raspi to Pi Pico HAT Adaptor](https://github.com/markbirss/lora-ws-raspberry-pi-pico-to-rpi-adapter) | RP2040 (Raspi HAT) | 🚫 |
 | | [mrekin/vaRDas's boards](https://github.com/mrekin/MeshtasticCustomBoards/) |
 | [ct62_tiny](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ct62_tiny) | ESP32C3 (HT-CT62) | 🚫 |
-| [e80_promicro v1.1](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.1) | nRF52840 | 🚫 |
-| [e80_promicro v1.2](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.2) | nRF52840 | 🚫 |
+| [e80_promicro v1.1](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.1) | nRF52840 | E80-900M2213S |
+| [e80_promicro v1.2](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/e80_promicro/v1.2) | nRF52840 | E80-900M2213S |
 | [fulltec v1](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/fulltec/v1) | nRF52840 | 🚫 |
 | [fulltec v2](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/fulltec/v2) | nRF52840 | 🚫 |
 | [ra62_c3_smini](https://github.com/mrekin/MeshtasticCustomBoards/tree/main/Gerbers/ra62_c3_smini) | ESP32C3 | 🚫 |
@@ -66,13 +66,16 @@
 | [SolarXiao v0.9](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V0.9/SolarXaio) | nRF52840 | ✅ |
 | [XaioGator v0.9](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V0.9/XaioGator) | nRF52840 | ✅ |
 | [XaioGator+ v1.0](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V1.0/XiaoGator%2B) | nRF52840 | ✅ |
+| | [madeofstown's designs](https://oshwlab.com/jljohnson87/works) | |
+| [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
+| [LoRaPi M2213S](https://oshwlab.com/jljohnson87/lorapi-m2213s) | Linux SBC (Raspi0 HAT) | E80-900M2213S |
+| [LoRaPi M30S](https://oshwlab.com/jljohnson87/lorapi-m30s) | Linux SBC (Raspi HAT) | ✅ |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
 | [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
 | [DonkTastic](https://github.com/jycannel/DonkTastic_pcb) | nRF52840 | ✅ |
 | [CheapMesh](https://github.com/joyel24/CheapMesh) | ESP32C3 (HT-CT62) | 🚫 |
 | [RAK_killer v2](https://github.com/Uroboros67/rak_killer)| nRF52840 | 🚫 |
-| [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
 | [MeshWalkie](https://hackaday.io/project/202551-meshwalkie) | ESP32-S3-WROOM-1 | 🚫 |
 | [MiranNode V1](https://www.pcbway.com/project/shareproject/Meshtastic_Compatible_Node_433afb1c.html) | nRF52840 | 🚫 |
 | [Econotastic](https://sites.google.com/view/econotastic/home) | RP2040 | 🚫 |
@@ -80,5 +83,7 @@
 | [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
 | [Hammer-1W_LoRa-board](https://github.com/BrokenCircuitRanch/Hammer-1W_LORA-board) | ESP32-WROOM-32 | ✅ |
 | [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
-| | **Non-Meshtastic but still cool** | |
+| | **Not necessarily Meshtastic but still cool** | |
+| [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
+| [Hacker Pager](https://www.hackerpager.net/) | ESP32-S3 | 🚫 |
