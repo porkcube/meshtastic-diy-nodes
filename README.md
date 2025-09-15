@@ -27,6 +27,7 @@
 | [Faketec Plus CN3791 LiPo Solar Charger](https://oshwlab.com/skvery/faketec-plus-cn3791-lipo-solar-charger) | nRF52840 | 🚫 |
 | [fakeTec v6 (Shimon Hornaek)](https://github.com/gargomoma/fakeTec_pcb/issues/26) | nRF52840 | 🚫 |
 | [pro-meshro](https://github.com/hawkeyes0v0/pro-meshro/) | nRF52840 | 🚫 |
+| [faketecyuri](https://github.com/Yurisu/meshtastic-faketecyuri) | nRF52840 | 🚫 |
 | | [Femtofox Series](https://github.com/femtofox/Femtofox_Community_Hardware) |
 | [Femtofox Community Edition](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20CE%20Alpha%201.1) | Linux SBC (Luckfox Pico Mini) | ✅ |
 | [Femtofox Smol](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20SE-RA-WIO%20Alpha%201.0) | Linux SBC (Luckfox Pico Mini) | ✅ |
