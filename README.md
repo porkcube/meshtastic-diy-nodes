@@ -69,7 +69,7 @@
 | [XaioGator+ v1.0](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V1.0/XiaoGator%2B) | nRF52840 | ✅ |
 | | [madeofstown's designs](https://oshwlab.com/jljohnson87/works) | |
 | [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
-| [LoRaPi M2213S](https://github.com/LoRaPiHat/LoRaPi-M2213S/) | Linux SBC (Raspi0 HAT) | E80-900M2213S |
+| [LoRaPi M2213S](https://oshwlab.com/jljohnson87/lorapi-m2213s) | Linux SBC (Raspi0 HAT) | E80-900M2213S |
 | [LoRaPi M30S](https://oshwlab.com/jljohnson87/lorapi-m30s) | Linux SBC (Raspi HAT) | ✅ |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
