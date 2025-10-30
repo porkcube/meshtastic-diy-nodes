@@ -85,6 +85,7 @@
 | [Hammer-1W_LoRa-board](https://github.com/BrokenCircuitRanch/Hammer-1W_LORA-board) | ESP32-WROOM-32 | ✅ |
 | [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
 | [meshtastic-mini](https://oshwhub.com/shenye894/meshtastic-mini) | nRF52840 | 🚫 |
+| [GAT562 Mesh Trial Tracker](https://github.com/quhyhao/GAT562) | nRF52840 | 🚫 |
 | | **Not necessarily Meshtastic but still cool** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
