@@ -28,6 +28,7 @@
 | [fakeTec v6 (Shimon Hornaek)](https://github.com/gargomoma/fakeTec_pcb/issues/26) | nRF52840 | 🚫 |
 | [pro-meshro](https://github.com/hawkeyes0v0/pro-meshro/) | nRF52840 | 🚫 |
 | [faketecyuri](https://github.com/Yurisu/meshtastic-faketecyuri) | nRF52840 | 🚫 |
+| [xiaoWa](https://github.com/gargomoma/xiaoWa_pcb) | nRF52840 | ✅ |
 | | [Femtofox Series](https://github.com/femtofox/Femtofox_Community_Hardware) |
 | [Femtofox Community Edition](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20CE%20Alpha%201.1) | Linux SBC (Luckfox Pico Mini) | ✅ |
 | [Femtofox Smol](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20SE-RA-WIO%20Alpha%201.0) | Linux SBC (Luckfox Pico Mini) | ✅ |
@@ -61,6 +62,7 @@
 | [Meshtoad v1.2](https://oshwlab.com/mtnmesh/meshtoad-v1-2) | USB to SPI | ✅ |
 | [Luckfox Ultra Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/Luckfox%20Ultra%20Hat) | Linux SBC (Luckfox Lyra/Pico Ultra) | ✅ |
 | [NebraHat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NebraHat) | Linux SBC (Raspi HAT) | ✅ |
+| [NebraHat Duo](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NebraHat/Duo) | Linux SBC (Raspi HAT) | ✅ + E80-900M2213S |
 | [NewtPi](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/NewtPi) | Linux SBC (Raspi HAT)| ✅ |
 | [PowerPi Mesh Hat](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/PowerPi%20Mesh%20Hat/V0.9) | Linux SBC (Raspi HAT) | ✅ |
 | [SolarXiaoBLE v0.8](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V0.8) | nRF52840 | ✅ |
@@ -71,6 +73,10 @@
 | [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
 | [LoRaPi M2213S](https://oshwlab.com/jljohnson87/lorapi-m2213s) | Linux SBC (Raspi0 HAT) | E80-900M2213S |
 | [LoRaPi M30S](https://oshwlab.com/jljohnson87/lorapi-m30s) | Linux SBC (Raspi HAT) | ✅ |
+| | **[stary's designs](https://github.com/Stary2001/my-mesh-nodes)** | |
+| [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
+| [ebyte-e80-22-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e80-22-zero) | Linux SBC (Raspi HAT) |🚫 |
+| [ebyte-e22p-30-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e22p-30-zero) | Linux SBC (Raspi HAT) | ✅ |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
 | [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
@@ -81,12 +87,12 @@
 | [MiranNode V1](https://www.pcbway.com/project/shareproject/Meshtastic_Compatible_Node_433afb1c.html) | nRF52840 | 🚫 |
 | [Econotastic](https://sites.google.com/view/econotastic/home) | RP2040 | 🚫 |
 | [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node) | nRF52840 | ✅ |
-| [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
 | [Hammer-1W_LoRa-board](https://github.com/BrokenCircuitRanch/Hammer-1W_LORA-board) | ESP32-WROOM-32 | ✅ |
 | [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
 | [meshtastic-mini](https://oshwhub.com/shenye894/meshtastic-mini) | nRF52840 | 🚫 |
 | [GAT562 Mesh Trial Tracker](https://github.com/quhyhao/GAT562) | nRF52840 | 🚫 |
-| | **Not necessarily Meshtastic but still cool** | |
+| [easy_E22](https://github.com/brad112358/easy_E22) | nRF52840 | ✅ |
+| | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
 | [Hacker Pager](https://www.hackerpager.net/) | ESP32-S3 | 🚫 |
