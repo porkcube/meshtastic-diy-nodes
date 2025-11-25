@@ -77,6 +77,7 @@
 | [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
 | [ebyte-e80-22-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e80-22-zero) | Linux SBC (Raspi HAT) |🚫 |
 | [ebyte-e22p-30-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e22p-30-zero) | Linux SBC (Raspi HAT) | ✅ |
+| [pro-meowcro](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/pro-meowcro) | nRF52840 | 🚫 |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
 | [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
