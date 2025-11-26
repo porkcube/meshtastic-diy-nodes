@@ -93,6 +93,7 @@
 | [meshtastic-mini](https://oshwhub.com/shenye894/meshtastic-mini) | nRF52840 | 🚫 |
 | [GAT562 Mesh Trial Tracker](https://github.com/quhyhao/GAT562) | nRF52840 | 🚫 |
 | [easy_E22](https://github.com/brad112358/easy_E22) | nRF52840 | ✅ |
+| [Meshtastic Autonomous Solar Node](https://github.com/danielcharrua/masn-meshtastic-autonomous-solar-node/) | nRF52840 | 🚫 |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
