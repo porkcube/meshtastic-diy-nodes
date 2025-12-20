@@ -70,6 +70,7 @@
 | [SolarXiao v0.9](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V0.9/SolarXaio) | nRF52840 | ✅ |
 | [XaioGator v0.9](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V0.9/XaioGator) | nRF52840 | ✅ |
 | [XaioGator+ v1.0](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/XaioSeries/V1.0/XiaoGator%2B) | nRF52840 | ✅ |
+| [ZebraHAT](https://github.com/wehooper4/Meshtastic-Hardware/tree/main/ZebraHAT) | Linux SBC (Raspi HAT) | ✅ w/E22P-900M30S |
 | | [madeofstown's designs](https://oshwlab.com/jljohnson87/works) | |
 | [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
 | [LoRaPi M2213S](https://oshwlab.com/jljohnson87/lorapi-m2213s) | Linux SBC (Raspi0 HAT) | E80-900M2213S |
