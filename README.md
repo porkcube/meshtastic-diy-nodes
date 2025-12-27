@@ -26,6 +26,7 @@
 | [faketec-co2](https://github.com/paulwalko/faketec-co2) | nRF52840 | 🚫 |
 | [Faketec Plus CN3791 LiPo Solar Charger](https://oshwlab.com/skvery/faketec-plus-cn3791-lipo-solar-charger) | nRF52840 | 🚫 |
 | [fakeTec v6 (Shimon Hornaek)](https://github.com/gargomoma/fakeTec_pcb/issues/26) | nRF52840 | 🚫 |
+| [RoTec (mofosyne)](https://github.com/mofosyne/roTec_pcb) | nRF52840 | 🚫 |
 | [pro-meshro](https://github.com/hawkeyes0v0/pro-meshro/) | nRF52840 | 🚫 |
 | [faketecyuri](https://github.com/Yurisu/meshtastic-faketecyuri) | nRF52840 | 🚫 |
 | [xiaoWa](https://github.com/gargomoma/xiaoWa_pcb) | nRF52840 | ✅ |
