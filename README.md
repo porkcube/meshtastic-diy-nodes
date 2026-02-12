@@ -22,6 +22,7 @@
 | [fakeTec v3 (11-27-2024)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v3_2024-11-27.zip) | nRF52840 | 🚫 |
 | [fakeTec v3 (12-17-2024)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/fakeTec_pcb_v3_2024-12-17.zip) | nRF52840 | 🚫 |
 | [fakeTec v4 (lupusworax)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/lupusworax_fakeTec_pcb_v4_GERBER.zip) | nRF52840 | 🚫 |
+| [fakeTec v4.1 (robinsonlab)](https://github.com/robinsonlabsltd-ui/fakeTec-v4.1pcb) | nRF52840 | 🚫 |
 | [fakeTec v5 (Shimon Horanek)](https://github.com/gargomoma/fakeTec_pcb/blob/main/gerbers/ShimonHoranek_fakeTecv5_gerber_files.zip) | nRF52840 | 🚫 |
 | [faketec-co2](https://github.com/paulwalko/faketec-co2) | nRF52840 | 🚫 |
 | [Faketec Plus CN3791 LiPo Solar Charger](https://oshwlab.com/skvery/faketec-plus-cn3791-lipo-solar-charger) | nRF52840 | 🚫 |
