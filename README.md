@@ -57,6 +57,7 @@
 | [Flushable](https://github.com/valzzu/meshtastic-pcbs/tree/main/Flushable) | nRF52840 | 🚫 |
 | [Shadow Raven](https://github.com/valzzu/meshtastic-pcbs/tree/main/Shadow%20Raven) | nRF52840 (nRFLR1110)| 🚫 |
 | [Nexio](https://github.com/valzzu/meshtastic-pcbs/tree/main/Nexio) | Linux SBC (Luckfox Lyra) | 🚫 |
+| [PiTastic](https://github.com/valzzu/meshtastic-pcbs/tree/main/PiTastic) | Linux SBC (Raspi HAT) | E22P-900M30S |
 | | [fire219's designs](https://github.com/fire219) | |
 | [Spearmintastic](https://github.com/fire219/spearmintastic) | nRF52840 | 🚫 |
 | [BabelFox](https://github.com/fire219/babelfox) | Linux SBC (Luckfox Lyra) | ✅ |
