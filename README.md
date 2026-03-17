@@ -55,7 +55,7 @@
 | [Mesh-Tab](https://github.com/valzzu/Mesh-Tab) | ESP32S3 | 🚫 |
 | [WashTastic](https://github.com/valzzu/meshtastic-pcbs/tree/main/WashTastic) | nRF52840 | ✅ |
 | [Flushable](https://github.com/valzzu/meshtastic-pcbs/tree/main/Flushable) | nRF52840 | 🚫 |
-| [Shadow Raven](https://github.com/valzzu/meshtastic-pcbs/tree/main/Shadow%20Raven) | nRF52840 (nRFLR1110)| 🚫 |
+| [Shadow Raven](https://github.com/valzzu/meshtastic-pcbs/tree/main/Shadow%20Raven) | nRF52840 (nRFLR1110)| SKY65313-21 FEM |
 | [Nexio](https://github.com/valzzu/meshtastic-pcbs/tree/main/Nexio) | Linux SBC (Luckfox Lyra) | 🚫 |
 | [PiTastic](https://github.com/valzzu/meshtastic-pcbs/tree/main/PiTastic) | Linux SBC (Raspi HAT) | E22P-900M30S |
 | | [fire219's designs](https://github.com/fire219) | |
