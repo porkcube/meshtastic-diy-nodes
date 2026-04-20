@@ -77,7 +77,7 @@
 | [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
 | [LoRaPi M2213S](https://oshwlab.com/jljohnson87/lorapi-m2213s) | Linux SBC (Raspi0 HAT) | E80-900M2213S |
 | [LoRaPi M30S](https://oshwlab.com/jljohnson87/lorapi-m30s) | Linux SBC (Raspi HAT) | ✅ |
-| | **stary's designs** | |
+| | **[stary's designs](https://github.com/Stary2001/my-mesh-nodes)** | |
 | [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
 | [ebyte-e80-22-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e80-22-zero) | Linux SBC (Raspi HAT) |🚫 |
 | [ebyte-e22p-30-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e22p-30-zero) | Linux SBC (Raspi HAT) | ✅ |
