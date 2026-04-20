@@ -77,7 +77,7 @@
 | [XiaoWOW](https://oshwlab.com/jljohnson87/xiaowow) | nRF52840 | ✅ |
 | [LoRaPi M2213S](https://oshwlab.com/jljohnson87/lorapi-m2213s) | Linux SBC (Raspi0 HAT) | E80-900M2213S |
 | [LoRaPi M30S](https://oshwlab.com/jljohnson87/lorapi-m30s) | Linux SBC (Raspi HAT) | ✅ |
-| | **[stary's designs](https://github.com/Stary2001/my-mesh-nodes)** | |
+| | **stary's designs** | |
 | [stm32-v1](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/stm32-v1) | stm32 | 🚫 |
 | [ebyte-e80-22-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e80-22-zero) | Linux SBC (Raspi HAT) |🚫 |
 | [ebyte-e22p-30-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e22p-30-zero) | Linux SBC (Raspi HAT) | ✅ |
@@ -101,6 +101,10 @@
 | [LR2021-Explorer](https://github.com/GeneralSyb/LR2021-Explorer) | - | LR2021 |
 | [Meshlet](https://www.5panel.dance/Meshlet/) | RP2040 | 🚫 |
 | [BirbMesh-One](https://github.com/KokoSoft/BirbMesh-One) | nRF52840 | ✅ |
+| | [Albatastic Series](https://github.com/EmilioAL-Git/Albatastic-PCB-Series/) | |
+| [Albatastic PRO](https://github.com/EmilioAL-Git/PCB-Albatastic-PRO) | nRF52840 | ✅ |
+| [Albatastic Node](https://github.com/sqtactical/Albatastic_Node) | nRF52840 | ✅ |
+| [Albapipe Meshtastic Node](https://github.com/miguelleonmanzano/Albapipe-Meshtastic-Node) | nRF52840 | ✅ |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
