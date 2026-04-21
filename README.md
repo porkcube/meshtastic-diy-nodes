@@ -82,6 +82,10 @@
 | [ebyte-e80-22-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e80-22-zero) | Linux SBC (Raspi HAT) |🚫 |
 | [ebyte-e22p-30-zero](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/ebyte-e22p-30-zero) | Linux SBC (Raspi HAT) | ✅ |
 | [pro-meowcro](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/pro-meowcro) | nRF52840 | 🚫 |
+| | **[Albatastic Series](https://github.com/EmilioAL-Git/Albatastic-PCB-Series/)** | |
+| [Albatastic PRO](https://github.com/EmilioAL-Git/PCB-Albatastic-PRO) | nRF52840 | ✅ |
+| [Albatastic Node](https://github.com/sqtactical/Albatastic_Node) | nRF52840 | ✅ |
+| [Albapipe Meshtastic Node](https://github.com/miguelleonmanzano/Albapipe-Meshtastic-Node) | nRF52840 | ✅ |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
 | [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
@@ -101,10 +105,6 @@
 | [LR2021-Explorer](https://github.com/GeneralSyb/LR2021-Explorer) | - | LR2021 |
 | [Meshlet](https://www.5panel.dance/Meshlet/) | RP2040 | 🚫 |
 | [BirbMesh-One](https://github.com/KokoSoft/BirbMesh-One) | nRF52840 | ✅ |
-| | [Albatastic Series](https://github.com/EmilioAL-Git/Albatastic-PCB-Series/) | |
-| [Albatastic PRO](https://github.com/EmilioAL-Git/PCB-Albatastic-PRO) | nRF52840 | ✅ |
-| [Albatastic Node](https://github.com/sqtactical/Albatastic_Node) | nRF52840 | ✅ |
-| [Albapipe Meshtastic Node](https://github.com/miguelleonmanzano/Albapipe-Meshtastic-Node) | nRF52840 | ✅ |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
