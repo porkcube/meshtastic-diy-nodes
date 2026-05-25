@@ -87,6 +87,11 @@
 | [Albatastic PRO](https://github.com/EmilioAL-Git/PCB-Albatastic-PRO) | nRF52840 | ✅ |
 | [Albatastic Node](https://github.com/sqtactical/Albatastic_Node) | nRF52840 | ✅ |
 | [Albapipe Meshtastic Node](https://github.com/miguelleonmanzano/Albapipe-Meshtastic-Node) | nRF52840 | ✅ |
+| | **[canadamadman's designs](https://github.com/canadamadman)** | |
+| [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
+| [Outdoor Node](https://github.com/canadamadman/Outdoor_Node) | nRF52840 | 🚫 |
+| [Box Node](https://github.com/canadamadman/Box_Node) | nRF52840 | 🚫 |
+| [Entendo_Node_Boy](https://github.com/canadamadman/Entendnode_Node_Boy) | nRF52840 | 🚫 |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
 | [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
@@ -98,7 +103,6 @@
 | [Econotastic](https://sites.google.com/view/econotastic/home) | RP2040 | 🚫 |
 | [MichTastic_Node](https://github.com/Hamspiced/MichTastic_Node) | nRF52840 | ✅ |
 | [Hammer-1W_LoRa-board](https://github.com/BrokenCircuitRanch/Hammer-1W_LORA-board) | ESP32-WROOM-32 | ✅ |
-| [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
 | [meshtastic-mini](https://oshwhub.com/shenye894/meshtastic-mini) | nRF52840 | 🚫 |
 | [GAT562 Mesh Trial Tracker](https://github.com/quhyhao/GAT562) | nRF52840 | 🚫 |
 | [easy_E22](https://github.com/brad112358/easy_E22) | nRF52840 | ✅ |
