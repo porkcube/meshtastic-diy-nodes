@@ -110,6 +110,7 @@
 | [LR2021-Explorer](https://github.com/GeneralSyb/LR2021-Explorer) | - | LR2021 |
 | [Meshlet](https://www.5panel.dance/Meshlet/) | RP2040 | 🚫 |
 | [BirbMesh-One](https://github.com/KokoSoft/BirbMesh-One) | nRF52840 | ✅ |
+| [Pi-Pico-NiceRF-LR2021](https://github.com/jlpoltrack/Pi-Pico-NiceRF-LR2021) | RP2040 | LR2021 |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
