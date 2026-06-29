@@ -111,6 +111,8 @@
 | [Meshlet](https://www.5panel.dance/Meshlet/) | RP2040 | 🚫 |
 | [BirbMesh-One](https://github.com/KokoSoft/BirbMesh-One) | nRF52840 | ✅ |
 | [Pi-Pico-NiceRF-LR2021](https://github.com/jlpoltrack/Pi-Pico-NiceRF-LR2021) | RP2040 | LR2021 |
+| [jess3000's DoubleHat](https://github.com/jessm33/Mesh-Hardware/tree/main/DoubleHat) | Linux SBC (Raspi HAT) | E22P OR LR2021 |
+| [jess3000's NiceFox](https://github.com/jessm33/Mesh-Hardware/tree/main/NiceFox) | Linux SBC (LuckFox Ultras) | LR2021 |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
