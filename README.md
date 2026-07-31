@@ -1,4 +1,4 @@
-## An awesome list of [Meshtastic](https://meshtastic.org) DIY nodes
+## an awesome list of [Meshtastic](https://meshtastic.org) DIY nodes
 
 | Name | MCU | 1W+ |
 |------|-----|----|
