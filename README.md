@@ -31,6 +31,7 @@
 | [faketecyuri](https://github.com/Yurisu/meshtastic-faketecyuri) | nRF52840 | 🚫 |
 | [xiaoWa](https://github.com/gargomoma/xiaoWa_pcb) | nRF52840 | ✅ |
 | [RoTec (fakeTec v5b fork)](https://github.com/mofosyne/roTec_pcb) | nRF52840 | 🚫 |
+| [fakeTec 2.4GHz](https://github.com/sqtactical/FakeTec_2.4G) | nRF52840 | E28-2G4M27SX |
 | | [Femtofox Series](https://github.com/femtofox/Femtofox_Community_Hardware) |
 | [Femtofox Community Edition](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20CE%20Alpha%201.1) | Linux SBC (Luckfox Pico Mini) | ✅ |
 | [Femtofox Smol](https://github.com/femtofox/Femtofox_Community_Hardware/tree/main/Assets/Femtofox%20SE-RA-WIO%20Alpha%201.0) | Linux SBC (Luckfox Pico Mini) | ✅ |
@@ -85,8 +86,10 @@
 | [pro-meowcro](https://github.com/Stary2001/my-mesh-nodes/tree/main/hardware/pro-meowcro) | nRF52840 | 🚫 |
 | | **[Albatastic Series](https://github.com/EmilioAL-Git/Albatastic-PCB-Series/)** | |
 | [Albatastic PRO](https://github.com/EmilioAL-Git/PCB-Albatastic-PRO) | nRF52840 | ✅ |
-| [Albatastic Node](https://github.com/sqtactical/Albatastic_Node) | nRF52840 | ✅ |
+| [Albatastic Compact](https://github.com/sqtactical/Albatastic_Node) | nRF52840 | ✅ |
 | [Albapipe Meshtastic Node](https://github.com/miguelleonmanzano/Albapipe-Meshtastic-Node) | nRF52840 | ✅ |
+| [Albatastic Micro](https://github.com/sqtactical/PCB-Albatastic-micro) | nRF52840 | ✅ |
+| [Albatastic Scout](https://github.com/sqtactical/Albatastic-Scout) | nRF52840 | ✅ |
 | | **[canadamadman's designs](https://github.com/canadamadman)** | |
 | [18650 Hat Node](https://github.com/canadamadman/18650_Hat_Node/) | nRF52840 | 🚫 |
 | [Outdoor Node](https://github.com/canadamadman/Outdoor_Node) | nRF52840 | 🚫 |
