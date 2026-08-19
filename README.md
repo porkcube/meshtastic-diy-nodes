@@ -116,6 +116,7 @@
 | [Pi-Pico-NiceRF-LR2021](https://github.com/jlpoltrack/Pi-Pico-NiceRF-LR2021) | RP2040 | LR2021 |
 | [jess3000's DoubleHat](https://github.com/jessm33/Mesh-Hardware/tree/main/DoubleHat) | Linux SBC (Raspi HAT) | E22P OR LR2021 |
 | [jess3000's NiceFox](https://github.com/jessm33/Mesh-Hardware/tree/main/NiceFox) | Linux SBC (LuckFox Ultras) | LR2021 |
+| [Modular Mesh Maker](https://posiwid.net/projects/modular-mesh-maker/) | nRF52840 | E22(P) OR LR1121 |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
 | [Walkie-Textie](https://github.com/technoblogy/walkie-textie) | ATtiny814 | 🚫 |
