@@ -95,6 +95,7 @@
 | [Outdoor Node](https://github.com/canadamadman/Outdoor_Node) | nRF52840 | 🚫 |
 | [Box Node](https://github.com/canadamadman/Box_Node) | nRF52840 | 🚫 |
 | [Entendo_Node_Boy](https://github.com/canadamadman/Entendnode_Node_Boy) | nRF52840 | 🚫 |
+| [Meshtastic T9 Phone](https://github.com/Slankydudl/meshtastic-xiao-nrf-phone) | nRF52840 | 🚫 |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
 | [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
