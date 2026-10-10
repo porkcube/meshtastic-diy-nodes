@@ -96,6 +96,11 @@
 | [Box Node](https://github.com/canadamadman/Box_Node) | nRF52840 | 🚫 |
 | [Entendo_Node_Boy](https://github.com/canadamadman/Entendnode_Node_Boy) | nRF52840 | 🚫 |
 | [Meshtastic T9 Phone](https://github.com/Slankydudl/meshtastic-xiao-nrf-phone) | nRF52840 | 🚫 |
+| | **[jess3000's designs](https://github.com/jessm33/Mesh-Hardware)** | |
+| [DoubleHat](https://github.com/jessm33/Mesh-Hardware/tree/main/DoubleHat) | Linux SBC (Raspi HAT) | E22P OR LR2021 |
+| [NiceFox](https://github.com/jessm33/Mesh-Hardware/tree/main/NiceFox) | Linux SBC (LuckFox Ultras) | LR2021 |
+| [1.25m SX1261 mikroBUS Module](https://github.com/jessm33/Mesh-Hardware/tree/main/1.25%20Meter%20SX1262%20Module) | mikroBUS | 🚫 |
+| [lr2021_1w_nrf](https://github.com/jessm33/Mesh-Hardware/tree/main/lr2021_1w_nrf) | nRF52840 |  ✅ |
 | | **Misc Projects** | |
 | [Project Hydra](https://github.com/Hydra-Designs/project-hydra-meshtastic-pcb) | ESP32-WROOM-32U | ✅ |
 | [xiao-ble](https://github.com/andrew-moroz/xiao-ble-pcb) | nRF52840 | ✅ |
@@ -115,8 +120,6 @@
 | [Meshlet](https://www.5panel.dance/Meshlet/) | RP2040 | 🚫 |
 | [BirbMesh-One](https://github.com/KokoSoft/BirbMesh-One) | nRF52840 | ✅ |
 | [Pi-Pico-NiceRF-LR2021](https://github.com/jlpoltrack/Pi-Pico-NiceRF-LR2021) | RP2040 | LR2021 |
-| [jess3000's DoubleHat](https://github.com/jessm33/Mesh-Hardware/tree/main/DoubleHat) | Linux SBC (Raspi HAT) | E22P OR LR2021 |
-| [jess3000's NiceFox](https://github.com/jessm33/Mesh-Hardware/tree/main/NiceFox) | Linux SBC (LuckFox Ultras) | LR2021 |
 | [Modular Mesh Maker](https://posiwid.net/projects/modular-mesh-maker/) | nRF52840 | E22(P) OR LR1121 |
 | | **Not necessarily Meshtastic but still cool!** | |
 | [Tanmatsu](https://nicolaielectronics.nl/tanmatsu/) | ESP32-P4 | 🚫 |
